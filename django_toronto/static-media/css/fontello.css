@@ -8,7 +8,7 @@
   font-style: normal;
 }
 [class^="ficon-"]:before,
-[class*=" ficon-"]:before {
+[class*=" icon-"]:before {
   font-family: 'fontello';
   font-style: normal;
   font-weight: normal;
@@ -32,4 +32,5 @@
 
 .ficon-google:before { content: '\47'; } /* 'G' */
 .ficon-plancast:before { content: '\50'; } /* 'P' */
+.ficon-info-circle:before { content: '\e705'; } /* '' */
 .ficon-calendar:before { content: '📅'; } /* '\1f4c5' */
